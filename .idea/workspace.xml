@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9eaaf15d-340b-4f39-9986-a16c0c8f11ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/ProductImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/ProductImage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/ProductVariant.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/ProductVariant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/ProductVariantPrice.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/ProductVariantPrice.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Variant.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Variant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +130,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../interview-question-sr-mediusware-dev.1.0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mcc-test" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -156,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637336767068</updated>
-      <workItem from="1637336768880" duration="4618000" />
+      <workItem from="1637336768880" duration="5507000" />
     </task>
     <servers />
   </component>
