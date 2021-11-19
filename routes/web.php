@@ -24,6 +24,9 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::middleware('auth')->group(function () {
     Route::resource('product-variant', 'VariantController');
     Route::resource('product', 'ProductController');
+    Route::get('/product/editapi/{id}', 'ProductController@editApi');
+    Route::get('copyproduct/{id}','ProductController@copyListing')->name('admin.copyproduct');
+
     Route::resource('blog', 'BlogController');
     Route::resource('blog-category', 'BlogCategoryController');
 });
